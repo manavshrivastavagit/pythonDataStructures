@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9205968b-0ab6-49dd-a759-2c7c013b147a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/python_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonDataStructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonDataStructures.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Info/msg1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Info/msg1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Info/msg2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Info/msg2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/addition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gujrati.py" beforeDir="false" afterPath="$PROJECT_DIR$/gujrati.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/import_addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/import_addition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/learning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiple_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiple_inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naive_string_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/naive_string_matching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,18 +20,38 @@
     <session id="-1335115252">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="227" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="227" />
         </counts>
       </usages-collector>
     </session>
@@ -44,46 +59,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gujrati.py">
+        <entry file="file://$PROJECT_DIR$/python_graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/naive_string_matching.py">
+        <entry file="file://$PROJECT_DIR$/numpy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
+        <entry file="file://$PROJECT_DIR$/concurrent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trie.py">
+        <entry file="file://$PROJECT_DIR$/math.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+            <state relative-caret-position="450">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="e#18#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_graph.py">
+        <entry file="file://$PROJECT_DIR$/modules.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -164,6 +185,10 @@
         <option value="$PROJECT_DIR$/learning.ipynb" />
         <option value="$PROJECT_DIR$/trie.py" />
         <option value="$PROJECT_DIR$/python_graph.py" />
+        <option value="$PROJECT_DIR$/numpy.py" />
+        <option value="$PROJECT_DIR$/concurrent.py" />
+        <option value="$PROJECT_DIR$/math.py" />
+        <option value="$PROJECT_DIR$/modules.py" />
       </list>
     </option>
   </component>
@@ -181,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,8 +218,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -212,8 +240,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.trie">
-    <configuration name="addition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.modules">
+    <configuration name="concurrent" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/addition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concurrent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gujrati" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gujrati.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="import_addition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_addition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="naive_string_matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,7 +316,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naive_string_matching.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,19 +363,19 @@
       <option name="ipnbPort" value="8888" />
     </configuration>
     <list>
-      <item itemvalue="Python.import_addition" />
-      <item itemvalue="Python.addition" />
-      <item itemvalue="Python.gujrati" />
-      <item itemvalue="Python.naive_string_matching" />
       <item itemvalue="Python.trie" />
+      <item itemvalue="Python.numpy" />
+      <item itemvalue="Python.concurrent" />
+      <item itemvalue="Python.math" />
+      <item itemvalue="Python.modules" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.modules" />
+        <item itemvalue="Python.math" />
+        <item itemvalue="Python.concurrent" />
+        <item itemvalue="Python.numpy" />
         <item itemvalue="Python.trie" />
-        <item itemvalue="Python.naive_string_matching" />
-        <item itemvalue="Python.gujrati" />
-        <item itemvalue="Python.addition" />
-        <item itemvalue="Python.import_addition" />
       </list>
     </recent_temporary>
   </component>
@@ -366,21 +394,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="23" width="1608" height="937" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24952741" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24952741" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289941" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3289941" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289941" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289941" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -483,6 +510,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/trie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/import_addition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -514,17 +572,20 @@
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/Carbon/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/trie.py">
+    <entry file="file://$PROJECT_DIR$/math.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        <state relative-caret-position="450">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_graph.py">
+    <entry file="file://$PROJECT_DIR$/modules.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>

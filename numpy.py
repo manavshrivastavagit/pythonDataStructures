@@ -16,4 +16,5 @@ print(d)              # Prints "[[ 1.  0.]
                       #          [ 0.  1.]]"
 
 e = np.random.random((2,2))  # Create an array filled with random values
-print(e)  
+print(e)
+
